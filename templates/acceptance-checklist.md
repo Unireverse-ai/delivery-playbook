@@ -2,6 +2,8 @@
 
 **Use:** record the result and evidence for the agreed project revision. An unticked box means “not yet evidenced,” not an assertion that the control exists. Agree thresholds with the business owner before evaluating.
 
+Use the [pilot scorecard](pilot-evaluation-scorecard.md) for the stage and decision. Use this checklist for the detailed checks behind that decision, and the [measurement plan](measurement-plan.md) for any business-outcome comparison.
+
 Project: ⟦name⟧ · Code/configuration revision: ⟦revision⟧ · Dataset revision: ⟦revision⟧ · Environment: ⟦environment⟧ · Review date: ⟦date⟧.
 
 ## Functional and control checks

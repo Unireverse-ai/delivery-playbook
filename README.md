@@ -8,16 +8,18 @@ UniReverseAI works on AI opportunity assessment, sales operations, sales-to-prod
 
 ## Start here
 
+For an initial review, take the [five-minute buyer route](docs/buyer-guide.md) for procurement, business or technical reviewers. For a pilot decision, pair the [evaluation scorecard](templates/pilot-evaluation-scorecard.md) with a [measurement plan](templates/measurement-plan.md).
+
 | Your question | Read |
 |---|---|
 | What would a pilot actually cover? | [Worked pilot brief](docs/pilot-brief.md) |
 | How do we define a buildable requirement? | [Requirements template](templates/requirements.md) |
-| How do we decide whether it is ready? | [Acceptance checklist](templates/acceptance-checklist.md) |
+| How do we decide whether it is ready? | [Pilot scorecard](templates/pilot-evaluation-scorecard.md) and [acceptance checklist](templates/acceptance-checklist.md) |
 | What happens when something fails? | [Operations runbook](templates/operations-runbook.md) |
 | What will our team receive? | [Handover checklist](templates/handover-checklist.md) |
 | Where does data go, and who decides? | [Data and supplier record](templates/data-and-suppliers.md) |
 | What is covered after delivery? | [Support and change scope](templates/support-and-change.md) |
-| How are outcomes substantiated? | [Case study template](templates/case-study.md) and [illustrative example](examples/illustrative-case-study.md) |
+| How are outcomes substantiated? | [Measurement plan](templates/measurement-plan.md), [case study template](templates/case-study.md) and [illustrative example](examples/illustrative-case-study.md) |
 | What evidence should we request in due diligence? | [Buyer evidence index](docs/due-diligence-index.md) |
 
 ## The delivery approach
@@ -40,7 +42,7 @@ The documents can also structure a technical review of our reference implementat
 
 The examples use a fictional manufacturing enquiry process, synthetic inputs and a simulated CRM. They do not describe a named customer, a commercial deployment or measured savings. No production integration, independent audit or certification is asserted.
 
-Learn about our work at [unireverseai.com](https://unireverseai.com).
+For business enquiries or a private evidence review, contact [Eric@unireverseai.com](mailto:Eric@unireverseai.com). The [website is in preparation](https://unireverseai.com).
 
 ## Rights
 

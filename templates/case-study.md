@@ -2,6 +2,8 @@
 
 **Use:** replace every `⟦...⟧` field. Publish only claims supported by the evidence and permitted by the relevant parties. If a section is unmeasured, say so. A template is not a completed customer case study.
 
+Agree the [measurement plan](measurement-plan.md) before collecting the final comparison; carry its sample, attribution limits and client-approved interpretation into this narrative.
+
 ## Title and classification
 
 Title: ⟦specific workflow and intervention⟧.

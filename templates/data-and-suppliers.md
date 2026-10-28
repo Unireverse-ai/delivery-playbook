@@ -56,11 +56,13 @@ Deletion scope and remaining copies must be described accurately. Removing a dat
 
 Complete a row for each proposed third party. A supplier's general marketing page is not sufficient evidence of the settings used by a particular account.
 
-| Supplier / service | Data received / purpose | Hosting / processing locations | Account owner | Required terms / configuration | Evidence and decision |
+| Supplier / service | Data received / purpose | Hosting / processing locations | Account owner | Required terms / configuration | Verification and decision |
 |---|---|---|---|---|---|
-| ⟦supplier⟧ | ⟦specific fields and purpose⟧ | ⟦verified locations / unresolved items⟧ | ⟦owner⟧ | ⟦applicable agreement, retention, data-use and access settings⟧ | ⟦source date, settings record and approve/reject/defer⟧ |
+| ⟦supplier⟧ | ⟦specific fields and purpose⟧ | ⟦verified locations / unresolved items⟧ | ⟦owner⟧ | ⟦applicable agreement, retention, data-use and access settings⟧ | ⟦verifier, date, source/settings record, scope, approve/reject/defer⟧ |
 
 For a model provider, confirm the selected product, endpoint, data-use settings, retention controls, logging and any relevant exceptions. Do not transfer claims from one product or account type to another.
+
+Record a condition that prevents approval for each material supplier requirement: ⟦for example, an unverified required processing location, an unresolved data-use setting, or access beyond the agreed scope⟧. A deferred decision keeps the affected data path unavailable until the owner resolves it. Recheck when the product, account configuration, data categories or destination changes.
 
 ## 6. Responsibilities and incident route
 
