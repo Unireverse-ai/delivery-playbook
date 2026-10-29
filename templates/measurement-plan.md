@@ -59,6 +59,6 @@ Decision: ⟦proceed / narrow / observe longer / stop⟧ · Client approval of i
 
 Permission to publish is separate: ⟦permitted wording/data/names, authorising party and date, or not granted⟧. Keep raw samples and customer records private, with retention/access defined in the [data record](data-and-suppliers.md).
 
-Next: carry the evidence into the [pilot scorecard](pilot-evaluation-scorecard.md), [value model](https://github.com/tom-unireverse/ai-value-assessment) and, when supported and permitted, the [case study](case-study.md).
+Next: carry the evidence into the [pilot scorecard](pilot-evaluation-scorecard.md), [value model](https://github.com/Unireverse-ai/ai-value-assessment) and, when supported and permitted, the [case study](case-study.md).
 
 Method reference: [NIST AI RMF 1.0, validity and reliability](https://airc.nist.gov/airmf-resources/airmf/3-sec-characteristics/) connects accuracy evidence with representative test conditions and documented methods. Business measurement choices must be agreed for the particular workflow.
