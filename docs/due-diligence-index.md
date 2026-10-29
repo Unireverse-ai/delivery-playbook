@@ -7,7 +7,7 @@ For a short role-based route, start with the [five-minute buyer guide](buyer-gui
 | Question | Public starting point | Evidence to request for a real engagement |
 |---|---|---|
 | Is the scope clear? | [Worked pilot brief](pilot-brief.md) | Agreed scope, exclusions, systems, responsibilities and change process |
-| Can the workflow be inspected? | [Reference implementation](https://github.com/UniReverseAI/sales-workflow-reference) and [documented limitations](https://github.com/UniReverseAI/sales-workflow-reference/blob/main/docs/production-gap.md) | Relevant revision, reproducible setup, representative sample inputs and outputs |
+| Can the workflow be inspected? | [Reference implementation](https://github.com/tom-unireverse/sales-workflow-reference) and [documented limitations](https://github.com/tom-unireverse/sales-workflow-reference/blob/main/docs/production-gap.md) | Relevant revision, reproducible setup, representative sample inputs and outputs |
 | Are approvals enforced? | [Acceptance checklist](../templates/acceptance-checklist.md) | Tests for missing approval, stale approval and prohibited actions |
 | What happens when integrations fail? | [Runbook](../templates/operations-runbook.md) | Failure/retry evidence in the agreed environment and a named recovery owner |
 | Where will our data go? | [Data and supplier record](../templates/data-and-suppliers.md) | Completed data flow, permissions, provider configuration and retention/deletion decisions |
